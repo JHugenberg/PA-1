@@ -1,4 +1,6 @@
 # PA-1
+ALL SUBMISSION FILES CAN BE FOUND AT: https://github.com/JHugenberg/PA-1
+
 Student: Jake Huegnberg
 Email: jahu7495@colorado.edu
 Phone: 303-886-8877
@@ -9,3 +11,9 @@ Files:
   syscalls.h defines the functions used to opperate when a syscall is activated. This is found under linux as it talks directly to the linux machine.
   numTest.c tests the number addition syscall. It sits under linux-hwe-4.15.0
   testHello.c tests the hello world system call. It sits under linux-hwe-4.15.0
+Testing:
+The test files are ready and do not need to be changed from what is already incoded
+I first typed into the command line:     gcc numTest.c -o cs3753.o && ./cs3753.o
+then: dmsg (to print out the desired output)
+Notes:
+I also added a couple of pictures of my work as I went for refrence if that is needed
