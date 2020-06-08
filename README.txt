@@ -1,4 +1,4 @@
-# PA-1
+i# PA-1
 ALL SUBMISSION FILES CAN ALSO BE FOUND AT: https://github.com/JHugenberg/PA-1
 
 Student: Jake Huegnberg
@@ -16,4 +16,5 @@ The test files are ready and do not need to be changed from what is already inco
 I first typed into the command line:     gcc numTest.c -o cs3753.o && ./cs3753.o
 then: dmsg (to print out the desired output)
 Notes:
-I also added a couple of pictures of my work as I went for refrence if that is needed
+I also have time stamped pitctures of some of my work and pictures of final outputs of my terminal. They are there to use if needed.
+I had no "var" folder in my file tree so in this submission there is no file coming from  /var/log/syslog
