@@ -1,4 +1,5 @@
 i# PA-1
+I completed all tasks
 ALL SUBMISSION FILES CAN ALSO BE FOUND AT: https://github.com/JHugenberg/PA-1
 
 Student: Jake Huegnberg
