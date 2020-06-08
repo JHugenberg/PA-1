@@ -1,5 +1,5 @@
 # PA-1
-ALL SUBMISSION FILES CAN BE FOUND AT: https://github.com/JHugenberg/PA-1
+ALL SUBMISSION FILES CAN ALSO BE FOUND AT: https://github.com/JHugenberg/PA-1
 
 Student: Jake Huegnberg
 Email: jahu7495@colorado.edu
